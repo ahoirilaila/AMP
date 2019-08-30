@@ -10,7 +10,7 @@ title: Wahid Emalution
 email: admin@wahidemalution.com
 description: >
   Berbagi semua yang saya tahu, kalau saya tidak tau tidak saya bagikan. Mulai dari pengalaman, Linux, Wordpress, Panel, Coding, random stuff, dsb.
-logo: "/assets/images/logo.jpg"
+logo: "/assets/images/logo.png"
 baseurl: "/AMP" # the subpath of your site, e.g. /blog
 url: "https://ahoirilaila.github.io/AMP" # the base hostname & protocol for your site
 paginate:	4 # The number of posts to show per page on your homepage
