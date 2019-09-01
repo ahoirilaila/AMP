@@ -32,6 +32,12 @@ Kalau ditanya Nilai yang diberikan untuk film gundala menurut saya pribadi 9/10.
 
 Walaupun begitu film ini pokoknya sangat saya rekomendasikan dan wajib untuk kalian tonton. Kita tunggu film-film Jagoan asli indonesia selanjutnya yang pastinya lebih keren.
 
+Ohya, satu lagi.
+
+<amp-img width="300" height="300" layout="responsive" src="https://i.loli.net/2019/09/01/4Dd1LJfBt6qTY57.jpg"></amp-img>
+
+Hehe
+
 
 
 _Mohon maaf kalau penulisan kurang rapih, dan masih terkesan berantakan_
