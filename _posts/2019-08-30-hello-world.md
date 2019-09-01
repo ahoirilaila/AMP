@@ -4,6 +4,6 @@ title: Hello World!
 permalink: /hello-world/
 ---
 
-<amp-img width="600" height="300" layout="responsive" src="https://i.loli.net/2019/08/31/wh2DRuKS3gIYckG.jpg"></amp-img>
+<amp-img width="600" height="300" layout="responsive" src="https://i.loli.net/2019/09/01/YgEzAlwKsPIN1ya.png"></amp-img>
 
 Hi :D
