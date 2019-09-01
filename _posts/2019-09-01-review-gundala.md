@@ -10,9 +10,9 @@ Film gundala yang disutradarai oleh Joko Anwar sudah tayang dibioskop seluruh In
 
 
 ## Sinopsis
-```
-Sancaka hidup di jalanan sejak ditinggal ayah dan ibunya. Menghadapi hidup yang keras, Sancaka belajar untuk bertahan hidup dengan tidak peduli dengan orang lain dan hanya mencoba untuk mendapatkan tempat yang aman bagi dirinya sendiri. Ketika situasi kota semakin tidak aman dan ketidakadilan merajalela di seluruh negeri, Sancaka harus buat keputusan yang berat, tetap hidup di zona amannya, atau keluar sebagai Gundala untuk membela orang-orang yang ditindas.
-```
+
+>Sancaka hidup di jalanan sejak ditinggal ayah dan ibunya. Menghadapi hidup yang keras, Sancaka belajar untuk bertahan hidup dengan tidak peduli dengan orang lain dan hanya mencoba untuk mendapatkan tempat yang aman bagi dirinya sendiri. Ketika situasi kota semakin tidak aman dan ketidakadilan merajalela di seluruh negeri, Sancaka harus buat keputusan yang berat, tetap hidup di zona amannya, atau keluar sebagai Gundala untuk membela orang-orang yang ditindas.
+
 
 Gundala merupakan film pembuka Jagat Sinema Bumi Langit. Jujur pertama kali melihat teaser film gundala ini saya sendiri langsung tidak sabar ingin menonton film nya. Andaikan memiliki mesin waktu, pasti sudah saya masuk ke mesin tersebut untuk maju beberapa bulan agar dapat menonton lebih awal. Tapi itu tidak mungkin juga haha, jadi ya tunggu sampai tanggal dimana film nya release.
 
