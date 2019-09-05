@@ -2,6 +2,7 @@
 layout: post
 title: Nonton film Gundala, pembukaan Jagat Sinema Bumi Langit yang Super!
 permalink: /nonton-gundala/
+comments: true
 ---
 
 <amp-youtube data-videoid="DoETv2wmEWE" layout="responsive" width="480" height="270"></amp-youtube>
