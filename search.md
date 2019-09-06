@@ -13,10 +13,4 @@ permalink: /search/
 <amp-script src="/js/search-script.js" type="text/javascript"></amp-script>
 
 <!-- Configuration -->
-<amp-script>
-SimpleJekyllSearch({
-  searchInput: document.getElementById('search-input'),
-  resultsContainer: document.getElementById('results-container'),
-  json: '/search.json'
-})
-</amp-script>
+<amp-script src="/js/search.js" type="text/javascript"></amp-script>
