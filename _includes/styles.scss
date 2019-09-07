@@ -523,8 +523,8 @@ pre {
 
 .post-nav {
     /* Insert your custom styling here. Example:
-      
        font-size: 14px;
+       font-family: $font-serif;
        margin-bottom: 1em;
     */
     display: flex;
@@ -535,4 +535,7 @@ pre {
 }
 .post-nav-next {
     text-align: right;
+}
+a:link {
+  text-decoration: none;
 }
