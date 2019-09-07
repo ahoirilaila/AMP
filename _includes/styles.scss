@@ -47,7 +47,7 @@ main {
 
 body {
   background-color: #fff;
-  font-family: $font-sans;
+  font-family: $font-serif;
   margin: 0;
   padding: 0;
   text-rendering: optimizeLegibility;
@@ -531,7 +531,7 @@ pre {
 }
 .post-nav a {
     text-decoration: none;
-    font-color: #555555;
+    color: #555;
 }
 .post-nav div {
     /* flex-grow, flex-shrink, flex-basis */
@@ -542,5 +542,5 @@ pre {
 }
 .post-nav-next a {
     text-decoration: none;
-    font-color: #555555;
+    color: #555;
 }
