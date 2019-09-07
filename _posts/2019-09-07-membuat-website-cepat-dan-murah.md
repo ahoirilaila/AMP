@@ -3,8 +3,6 @@ layout: post
 title: membuat website cepat dan murah
 permalink: /membuat-website-cepat-dan-murah/
 ---
-Pertanyaan yang sering diajukan pada orang yang baru akan membuat website yaitu,
-
 > "Bagaimana cara membuat website?"
 
 Banyak yang sudah membahas bagaimana cara membuat website, dan juga saat ini sudah banyak website builder yang dapat dengan mudah digunakan oleh pemula sekalipun. Bagaimana tidak, untuk membuat website kamu tidak perlu menguasai bahasa pemrograman lagi. Cukup _drag & drop_ dan website kamu sudah jadi dan dapat diakses.
