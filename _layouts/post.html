@@ -12,6 +12,18 @@ layout: default
       {{content}}
     </section>
     <footer class="post-footer">
+      <div class="post-nav">
+        <div>
+            {% if page.previous.url %}
+          <a href="{{page.previous.url}}">&laquo;&nbsp;{{page.previous.title}}</a>
+            {% endif %}
+        </div>
+      <div class="post-nav-next">
+          {% if page.next.url %}
+        <a href="{{page.next.url}}">{{page.next.title}}&nbsp;&raquo;</a>
+          {% endif %}
+        </div>
+      </div>
       <section class="share">
         <a class="icon" href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.id }}&text={{page.title | cgi_escape}}&via={{ site.twitter_username }}" target="_blank">
           Share on
