@@ -11,7 +11,7 @@ Walaupun begitu, biaya yang dibutuhkan untuk pembuatan website bisa dibilang tid
 
 Selanjutnya **Kecepatan akses website.** Beberapa orang yang sudah memiliki website mungkin pernah merasakan website lambat ketika diakses. Seperti yang kita ketahui kecepatan akses website itu penting sekali, karena pengunjung tidak suka website yang lambat pada saat diakses.
 
-<amp-img alt="Score test website" layout="responsive" src="https://i.loli.net/2019/09/07/ukBHDwxfdcCbETL.jpg"></amp-img>
+<amp-img width="600" height="300"  layout="responsive" src="https://i.loli.net/2019/09/07/ukBHDwxfdcCbETL.jpg"></amp-img>
 
 ***
 
