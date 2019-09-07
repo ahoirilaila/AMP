@@ -529,6 +529,10 @@ pre {
     */
     display: flex;
 }
+.post-nav a {
+    text-decoration: none;
+    font-color: #555555;
+}
 .post-nav div {
     /* flex-grow, flex-shrink, flex-basis */
     flex: 1 1 0;
@@ -536,6 +540,7 @@ pre {
 .post-nav-next {
     text-align: right;
 }
-a:link {
-  text-decoration: none;
+.post-nav-next a {
+    text-decoration: none;
+    font-color: #555555;
 }
